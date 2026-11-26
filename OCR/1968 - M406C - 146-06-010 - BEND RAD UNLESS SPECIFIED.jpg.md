@@ -20,7 +20,7 @@ Wiki page: [M406C](../../../../PAGES/M406C.md)
 - **Closed boxes:** 29
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1968 - M406C - 146-06-010 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M406C%20-%20146-06-010%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20(traced).json) (the CAD file: `1968 - M406C - 146-06-010 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
+Every curve, box, word and wire group: [1968 - M406C - 146-06-010 - BEND RAD UNLESS SPECIFIED (traced).json](../SCHEMATICS/1968%20-%20M406C%20-%20146-06-010%20-%20BEND%20RAD%20UNLESS%20SPECIFIED%20%28traced%29.json) (the CAD file: `1968 - M406C - 146-06-010 - BEND RAD UNLESS SPECIFIED (traced).dxf`).
 
 ## Full text
 
