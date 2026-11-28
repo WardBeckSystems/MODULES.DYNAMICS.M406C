@@ -1,5 +1,5 @@
 # 1968 - M406C - 146-06-010 - BEND RAD UNLESS SPECIFIED.jpg
-Wiki page: [M406C](../../../../PAGES/M406C.md)
+Wiki page: [M406C](../)
 
 
 - **Year:** 1968 (module estimate (family))
