@@ -7,132 +7,102 @@
  "verified": null,
  "derived": true,
  "variant_of": "M406",
- "pins": [
-  {
-   "pin": "1",
-   "signal": "COMPRESSOR IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "COMPRESSOR IN",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "COMPRESSOR OUT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "14",
-   "signal": "COMPRESSOR OUT",
-   "kind": "out",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "15",
-   "signal": "METER OUT",
-   "kind": "out",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "16",
-   "signal": "METER OUT",
-   "kind": "out",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "17",
-   "signal": "SIDE CHAIN",
-   "kind": "control",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "20",
-   "signal": "+24 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "22",
-   "signal": "+48 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "variant",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M406/M406.rto144.json",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Engineering/RTO-144/M406/M406.rto144.json"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "1",
+   "signal": "Compressor IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "2",
+   "signal": "Compressor IN",
+   "kind": "in",
+   "port": "A1",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "13",
+   "signal": "Compressor OUt",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "14",
+   "signal": "Compressor OUt",
+   "kind": "out",
+   "port": "A2",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "15",
+   "signal": "Meter OUT",
+   "kind": "out",
+   "port": "B2",
+   "polarity": "+"
+  },
+  {
+   "connector": "",
+   "pin": "16",
+   "signal": "Meter OUT",
+   "kind": "out",
+   "port": "B2",
+   "polarity": "-"
+  },
+  {
+   "connector": "",
+   "pin": "17",
+   "signal": "Side Chain",
+   "kind": "control",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "19",
+   "signal": "COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "20",
+   "signal": "VCC-LAMP +24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "22",
+   "signal": "VCC-AUDIO +48 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/RTO-144/M406/M406.rto144.json"
+ }
 }
